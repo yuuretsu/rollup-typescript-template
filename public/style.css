@@ -7,7 +7,7 @@ body {
   color: #333;
 }
 
-p {
+code.hello-world {
   font-family: monospace;
   font-size: 2em;
   font-weight: bold;
