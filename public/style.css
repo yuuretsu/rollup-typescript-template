@@ -8,6 +8,8 @@ body {
 }
 
 code.hello-world {
+  display: block;
+  text-align: center;
   font-family: monospace;
   font-size: 2em;
   font-weight: bold;
